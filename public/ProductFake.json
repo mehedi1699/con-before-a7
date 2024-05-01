@@ -1,0 +1,83 @@
+[
+    {
+      "id": "1",
+      "title": "Premium Bluetooth Headphones",
+      "price": 89.99,
+      "description": "Experience superior sound quality with our premium Bluetooth headphones. Designed for comfort and style, these headphones are perfect for music lovers on the go.",
+      "category": "Electronics",
+      "image": "https://i.ibb.co/YjqKc2X/c-d-x-PDX-a-82obo-unsplash.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Stainless Steel Smartwatch",
+      "price": 149.99,
+      "description": "Stay connected and track your fitness goals with our stainless steel smartwatch. Featuring a sleek design and advanced features, it's the perfect accessory for modern living.",
+      "category": "Electronics",
+      "image": "https://i.ibb.co/NnyN7N6/onur-binay-4401uq-U9bf8-unsplash.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Organic Green Tea",
+      "price": 12.49,
+      "description": "Savor the refreshing taste of our organic green tea. Made from handpicked tea leaves, it's packed with antioxidants and goodness.",
+      "category": "Food & Beverage",
+      "image": "https://i.ibb.co/645SgYK/na-visky-3h-RRT4qztzs-unsplash.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Leather Messenger Bag",
+      "price": 79.99,
+      "description": "Carry your essentials in style with our leather messenger bag. Crafted from high-quality leather, it's durable and practical for everyday use.",
+      "category": "Fashion",
+      "image": "https://i.ibb.co/rGVh8DK/alvaro-serrano-p-FLNV4gk-Xsc-unsplash.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Wireless Charging Pad",
+      "price": 29.99,
+      "description": "Say goodbye to tangled wires with our wireless charging pad. Compatible with all Qi-enabled devices, it's the perfect addition to your desk or nightstand.",
+      "category": "Electronics",
+      "image": "https://i.ibb.co/Z8yBzST/mikey-wu-r0-Do56ntk-Bs-unsplash-1.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Luxury Scented Candle",
+      "price": 24.99,
+      "description": "Create a relaxing atmosphere with our luxury scented candle. Made from natural ingredients, it fills your home with delightful aromas.",
+      "category": "Home & Living",
+      "image": "https://i.ibb.co/SVgKJb1/rebecca-peterson-hall-a-N-z-GYlxi-CI-unsplash.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Professional Chef's Knife",
+      "price": 49.99,
+      "description": "Slice and dice with precision using our professional chef's knife. Crafted from high-carbon stainless steel, it's designed for durability and performance.",
+      "category": "Kitchen",
+      "image": "https://i.ibb.co/f0DFfRS/caroline-attwood-8-Tlng54n8-Y-unsplash.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Fitness Resistance Bands Set",
+      "price": 34.99,
+      "description": "Achieve your fitness goals with our resistance bands set. Perfect for home workouts, it offers varying levels of resistance for a full-body workout.",
+      "category": "Fitness",
+      "image": "https://i.ibb.co/7xf4KVx/geert-pieters-Nbp-UM86-Jo8-Y-unsplash.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Vintage Polaroid Camera",
+      "price": 129.99,
+      "description": "Capture timeless memories with our vintage Polaroid camera. Featuring instant printing, it's a fun and nostalgic way to preserve your favorite moments.",
+      "category": "Electronics",
+      "image": "https://i.ibb.co/3CnB4Dm/dariusz-sankowski-mj2-Nw-YH3w-BA-unsplash.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Aromatherapy Essential Oil Diffuser",
+      "price": 39.99,
+      "description": "Relax and unwind with our aromatherapy essential oil diffuser. Create a soothing ambiance with your favorite essential oils and gentle mist.",
+      "category": "Home & Living",
+      "image": "https://i.ibb.co/hFbxysz/kelly-sikkema-Ua-O58q6iox-I-unsplash.jpg"
+    }
+  ]
+  
